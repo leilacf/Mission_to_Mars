@@ -7,7 +7,7 @@ The purpose of this project was to create a web-based application, Mission to Ma
 - MongoDB as an open source NoSQL database management program, was used to store our data
 - Flask created and displayed the data from the web scraping
 - Python, HTML, and JavaScript alongwith Bootstrap 3 components were foundational in the creation of our web-based application
-- Bootstrap 3 allowed for the application to become responsive to dimensions such as mobile-responsive, styling the *Scrape New Data* button, and customizing features of such as the facts table
+- Bootstrap 3 allowed for the application to become responsive to dimensions such as mobile-responsiveness, styling the *Scrape New Data* button, and customizing features such as the facts table
 - PyMongo as the Python driver, allowed for us to interact with MongoDB databases
 
 ## Results
